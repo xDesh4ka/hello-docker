@@ -217,6 +217,10 @@ Docker Compose используется для одновременного уп
 г) ответы на контрольные вопросы.
 
 ---
-https://habr.com/ru/articles/260329/ - запуск docker-compose под windows
-https://www.docker.com/get-started/ - документация по docker
-https://habr.com/ru/articles/750912/ - установка bash терминала на windows (для удобства)
+
+
+
+### Может пригодиться
+- https://habr.com/ru/articles/260329/ - запуск docker-compose под windows
+- https://www.docker.com/get-started/ - документация по docker
+- https://habr.com/ru/articles/750912/ - установка bash терминала на windows (для удобства)
